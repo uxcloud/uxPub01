@@ -1,0 +1,4 @@
+#  선언적 렌더링
+<div id="app">
+  {{ message }}
+</div>
